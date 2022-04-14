@@ -1,2 +1,2 @@
 # oneminusone
-Demonstrate GitHub tricks
+Demonstrate GitHub fun
