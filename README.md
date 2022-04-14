@@ -1,2 +1,2 @@
 # oneminusone
-Demonstrate GitHub fun
+Demonstrate GitHub repositories
